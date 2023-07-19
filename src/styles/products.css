@@ -104,3 +104,11 @@ td{
     font-size: 2vh;
     text-decoration: none;
 }
+
+footer{
+    display: flex;
+}
+
+footer p{
+    text-align: center;
+}
