@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:italic
+}
+
+header{
+    width: 100%;
+    height: 40vh;
+    background-image: url(../images/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall1.jpg);
+    background-size: cover;  
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.dv1{
+    
+    justify-content: space-between;
+    display: flex;
+    background-color: #0000;
+    padding: 2vh 2vh 2vh 2vh;
+}
+
+.dv2{
+    justify-content: space-between;
+    width: 30vh;
+    display: flex;
+}
+
+.smt{
+    font-size: 3vh;
+    color: #ffff;
+    text-decoration: none;
+
+}
+
+.txtd{
+    font-size: 2vh;
+    color: #ffff;
+    text-decoration: none;
+}
+
+.dv3{
+    padding: 3.5vh 18vh 3.5vh 18vh;
+    margin: 6vh 6vh 6vh 6vh;
+    border: #ffff solid 0.5vh;
+    width: 45vh;
+    height: 7vh;
+    position: relative;
+}
+
+.title{
+    font-size: 6vh;
+    color: #ffff;
+
+}
+
+.table_img{
+    width: 40vh;
+    height: 45vh;
+}
+
+table{
+    padding-top: 7vh;
+    padding-bottom: 3vh;
+}
+
+td{
+    padding: 1vh 5.5vh 1vh 5.5vh;
+    justify-content: center;
+}
+
+.a1{
+    justify-content: center;
+    display: flex;  
+    font-size: 3vh;
+}
+
+.a2{
+    justify-content: center;
+    text-align: center;
+}
+
+.button{
+    background-color: rgb(0, 0, 39);
+    margin-top: 1vh;
+    padding-left: 1vh;
+    width: 11vh;
+    border-radius: 0.4vh;
+}
+
+.button p{
+    color: #ffff;
+    padding: 1vh 2vh 1vh 2vh;
+    font-size: 2vh;
+    text-decoration: none;
+}
