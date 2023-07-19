@@ -13,6 +13,10 @@ header{
     background-position: center;
 }
 
+body{
+    height: 140vh;
+}
+
 .dv1{
     
     justify-content: space-between;
