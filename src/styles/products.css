@@ -81,6 +81,11 @@ td{
     text-align: center;
 }
 
+.dvbuttons{
+    display: flex;
+    justify-content: space-around;
+}
+
 .button{
     background-color: rgb(0, 0, 39);
     margin-top: 1vh;
