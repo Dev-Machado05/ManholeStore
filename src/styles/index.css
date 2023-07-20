@@ -76,19 +76,3 @@ header{
 .dv5 p{
     padding-top: 3vh;
 }
-
-.button{
-    background-color: rgb(0, 0, 39);
-    margin-left: 145vh;
-    margin-top: 1vh;
-    padding-left: 1vh;
-    width: 11vh;
-    border-radius: 0.4vh;
-}
-
-.button p{
-    color: #ffff;
-    padding: 1vh 2vh 1vh 2vh;
-    font-size: 2vh;
-    text-decoration: none;
-}
