@@ -68,6 +68,11 @@ body{
     height: 45vh;
 }
 
+.table_img2{
+    width: 40vh;
+    height: 40vh;
+}
+
 table{
     padding-top: 7vh;
     padding-bottom: 3vh;
