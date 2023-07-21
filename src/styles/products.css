@@ -66,18 +66,24 @@ body{
 .table_img{
     width: 40vh;
     height: 45vh;
+    border-radius: 4vh;
 }
 
 .table_img2{
     width: 40vh;
     height: 40vh;
+    border-radius: 4vh;
 }
 
 table{
-    padding-top: 7vh;
+    margin-top: 7vh;
+    margin-bottom: 7vh;
+    padding-top: 3vh;
     padding-bottom: 3vh;
+    background-color: rgba(148, 148, 148, 0.575);
+    border-radius: 4vh;
+    border: 0.5vh solid;
 }
-
 
 td{
     padding: 1vh 5.5vh 1vh 5.5vh;
